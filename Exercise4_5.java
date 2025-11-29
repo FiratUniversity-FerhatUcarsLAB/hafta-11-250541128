@@ -25,3 +25,14 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+STACK DİYAGRAMI 
+    main → clink(4) → zoop(" breakfast ", 4) 
+Zoop ikinci kez clink(4) içinden çağrılır.
+
+TAM ÇIKTI
+     just for 
+ any  not  more 
+It ’s 
+ breakfast 
+!
