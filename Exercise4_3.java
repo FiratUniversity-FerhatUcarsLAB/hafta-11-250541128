@@ -26,7 +26,7 @@ public class Exercise4_3 {
     }
 }
 
-stack diyagram örneği
+STACK DİYAGRAMI
 ------------------------------
 | ping()                     |
 | (yerel değişken yok)       |
@@ -39,6 +39,7 @@ stack diyagram örneği
 ------------------------------
 | main(String[] args)        |
 ------------------------------
+main → zoop → baffle → ping
 
-tam çıktı
+TAM ÇIKTI
 No, I  wug. You wugga  wug.I  wug.
