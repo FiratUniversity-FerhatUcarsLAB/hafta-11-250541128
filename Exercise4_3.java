@@ -1,3 +1,6 @@
+ENES ALADAĞ
+250541128
+
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -22,3 +25,20 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+stack diyagram örneği
+------------------------------
+| ping()                     |
+| (yerel değişken yok)       |
+------------------------------
+| baffle()                   |
+| (yerel değişken yok)       |
+------------------------------
+| zoop()                     |
+| (yerel değişken yok)       |
+------------------------------
+| main(String[] args)        |
+------------------------------
+
+tam çıktı
+No, I  wug. You wugga  wug.I  wug.
